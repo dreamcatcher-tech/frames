@@ -1,51 +1,51 @@
 [submodule "dreamcatcher-mock"]
 	path = dreamcatcher-mock
-	url = git@github.com:inverted-capital/dreamcatcher-mock.git
+       url = https://github.com/inverted-capital/dreamcatcher-mock.git
 [submodule "frame-account-panel"]
 	path = frame-account-panel
-	url = git@github.com:inverted-capital/frame-account-panel.git
+       url = https://github.com/inverted-capital/frame-account-panel.git
 [submodule "frame-branches-panel"]
 	path = frame-branches-panel
-	url = git@github.com:inverted-capital/frame-branches-panel.git
+       url = https://github.com/inverted-capital/frame-branches-panel.git
 [submodule "frame-chats-panel"]
 	path = frame-chats-panel
-	url = git@github.com:inverted-capital/frame-chats-panel.git
+       url = https://github.com/inverted-capital/frame-chats-panel.git
 [submodule "frame-contacts-panel"]
 	path = frame-contacts-panel
-	url = git@github.com:inverted-capital/frame-contacts-panel.git
+       url = https://github.com/inverted-capital/frame-contacts-panel.git
 [submodule "frame-events-panel"]
 	path = frame-events-panel
-	url = git@github.com:inverted-capital/frame-events-panel.git
+       url = https://github.com/inverted-capital/frame-events-panel.git
 [submodule "frame-files-panel"]
 	path = frame-files-panel
-	url = git@github.com:inverted-capital/frame-files-panel.git
+       url = https://github.com/inverted-capital/frame-files-panel.git
 [submodule "frame-harness"]
 	path = frame-harness
-	url = git@github.com:inverted-capital/frame-harness.git
+       url = https://github.com/inverted-capital/frame-harness.git
 [submodule "frame-help-panel"]
 	path = frame-help-panel
-	url = git@github.com:inverted-capital/frame-help-panel.git
+       url = https://github.com/inverted-capital/frame-help-panel.git
 [submodule "frame-home-panel"]
 	path = frame-home-panel
-	url = git@github.com:inverted-capital/frame-home-panel.git
+       url = https://github.com/inverted-capital/frame-home-panel.git
 [submodule "frame-innovations-panel"]
 	path = frame-innovations-panel
-	url = git@github.com:inverted-capital/frame-innovations-panel.git
+       url = https://github.com/inverted-capital/frame-innovations-panel.git
 [submodule "frame-napps-panel"]
 	path = frame-napps-panel
-	url = git@github.com:inverted-capital/frame-napps-panel.git
+       url = https://github.com/inverted-capital/frame-napps-panel.git
 [submodule "frame-processes-panel"]
 	path = frame-processes-panel
-	url = git@github.com:inverted-capital/frame-processes-panel.git
+       url = https://github.com/inverted-capital/frame-processes-panel.git
 [submodule "frame-repos-panel"]
 	path = frame-repos-panel
-	url = git@github.com:inverted-capital/frame-repos-panel.git
+       url = https://github.com/inverted-capital/frame-repos-panel.git
 [submodule "frame-settings-panel"]
 	path = frame-settings-panel
-	url = git@github.com:inverted-capital/frame-settings-panel.git
+       url = https://github.com/inverted-capital/frame-settings-panel.git
 [submodule "frame-template"]
 	path = frame-template
-	url = git@github.com:inverted-capital/frame-template.git
+       url = https://github.com/inverted-capital/frame-template.git
 [submodule "frame-transcludes-panel"]
 	path = frame-transcludes-panel
-	url = git@github.com:inverted-capital/frame-transcludes-panel.git
+       url = https://github.com/inverted-capital/frame-transcludes-panel.git
